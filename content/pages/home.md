@@ -17,4 +17,4 @@ I have a broad basis of training in psychology, speech and hearing, and mathemat
 [4]: https://www.researchgate.net/profile/Daniel_Guest2
 [5]: https://google.com
 [7]: https://www.utdallas.edu/~assmann/
-[8]: apc.psych.umn.edu/
+[8]: http://apc.psych.umn.edu/
