@@ -21,8 +21,8 @@ As an undergraduate research assistant, my primary role was working on a project
 
 **Publications and posters:**
 :  [Poster presented at ASA Spring 2017][9]   
-   [Poster presented at UTD Exhibition of Excellence in Undergraduate Research 2017][8]   
-    [Poster presented at ASA Spring 2016][2]
+   [Poster presented at UTD Undergraduate Poster Contest 2017][8]   
+   [Poster presented at ASA Spring 2016][2]
 
 
 [1]: https://www.utdallas.edu/~assmann/ 
