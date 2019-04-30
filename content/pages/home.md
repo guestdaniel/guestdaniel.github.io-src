@@ -3,6 +3,9 @@ Date: 2017-04-01 10:00
 URL:
 save_as: index.html
 
+![alt text](/images/complex_banner.png)
+<div style="text-align: right"> <font size="3"> <em> Joyplot of a simulated auditory nerve response to a sine-phase harmonic complex tone. </em> </font> </div>
+
 [Email][1] \| [LinkedIn][2] \| [Github][3] \| [ResearchGate][4]
 
 I am a PhD student in the Department of Psychology at the University of Minnesota.

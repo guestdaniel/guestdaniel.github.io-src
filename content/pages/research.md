@@ -36,8 +36,6 @@ As part of my [NSF-NRT Graduate Training Program in Sensory Science Fellowship](
 **PI:** Peter Assmann
 
 As an undergraduate research assistant, my primary role was working on a project investigating perception of indexical properties in children's speech. Using stimuli from the North Texas Vowel Database modified by the [STRAIGHT vocoder][3], I examined how listeners utilize fundamental frequency and formant frequencies when perceiving age and gender in children's speech. In particular, I focused on conditions of reduced spectrotemporal resolution (through the use of tone vocoders) and on differences between normal-hearing and cochlear-implant listeners. This research culminated in an honors thesis entitled "Perception of voice gender in children's speech". 
-
-**Publications and posters:**
 :  [Poster presented at ASA Spring 2017][9]   
    [Poster presented at UTD Undergraduate Poster Contest 2017][8]   
    [Poster presented at ASA Spring 2016][2]

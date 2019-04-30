@@ -14,7 +14,7 @@ A scholarship offer, nearby family, and a spark of interest generated in an AP p
 
 ![alt text](/images/dallas1.jpg)
 
-Now, I'm headed to Minneapolis, Minnesota to do a PhD in psychology at the University of Minnesota. I'll be working in the Auditory Perception and Cognition Lab there. As a native Texan, I would imagine that the only pastime of Minnesotans is ice fishing and snow shoveling, but when I'm not doing that I'll try to enjoy Minneapolis' parks, bikes, and music! 
+Now, I'm in Minneapolis, Minnesota pursuing a PhD in psychology at the University of Minnesota. I work in the Auditory Perception and Cognition Lab there. As a native Texan, I had imagined that the only pastime of Minnesotans would be ice fishing and snow shoveling, but so far I've enjoyed Minneapolis' parks, bikes, and music! 
 
 ![alt text](/images/umn1.jpg)
 
