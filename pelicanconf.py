@@ -4,12 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Daniel Guest'
 SITENAME = 'Daniel Guest'
-SITEURL = 'http://localhost.io:8000'
 SITETITLE = 'Daniel Guest'
 SITESUBTITLE = 'PhD student<br>Department of Psychology<br>University of Minnesota'
+SITEURL = 'http://localhost:8000'
 SITELOGO = SITEURL + '/images/profile.jpg'
 
-ROBOTS = 'index, follow'
+#ROBOTS = 'index, follow'
 
 THEME = "pelican-themes/Flex"
 PATH = 'content'
@@ -21,31 +21,28 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-COPYRIGHT_YEAR = True
 
 DATE_FORMATS = {
     'en': '%B %d, %Y',
 }
 
-USE_FOLDER_AS_CATEGORY = False
-MAIN_MENU = True
+USE_FOLDER_AS_CATEGORY = True 
+MAIN_MENU = False 
 HOME_HIDE_TAGS = True
 
-STATIC_PATHS = ['images', 'download']
+STATIC_PATHS = ['images', 'download', 'pages']
 
 MENUITEMS = (('Archives', '/archives.html'),
              ('Categories', '/categories.html'),
              ('Tags', '/tags.html'),)
 
-LINKS = ()
-
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
-PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['assets']
+#PLUGIN_PATHS = ['pelican-plugins']
+#PLUGINS = ['assets']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

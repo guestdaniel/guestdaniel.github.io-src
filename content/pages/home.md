@@ -5,7 +5,8 @@ save_as: index.html
 
 [Email][1] \| [LinkedIn][2] \| [Github][3] \| [ResearchGate][4]
 
-In Fall 2017 I will be a PhD student in the Department of Psychology at the University of Minnesota. I will be studying auditory perception in Dr. Andrew Oxenham's [Auditory Perception and Cognition Lab][8].
+I am a PhD student in the Department of Psychology at the University of Minnesota.
+I study auditory perception in Dr. Andrew Oxenham's [Auditory Perception and Cognition Lab][8].
 
 Formerly, I earned a BS in Psychology from the School of Behavioral and Brain Sciences at the University of Texas at Dallas. I worked in Dr. Peter Assmann's [Speech Perception Lab][7], where I focused on perception of indexical properties in children's speech by normal-hearing and cochlear-implant listeners.
 

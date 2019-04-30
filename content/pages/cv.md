@@ -4,10 +4,11 @@ Date: 2017-04-01 10:00
 My short CV is available below. My full CV is available [here]({filename}/download/cv.pdf) as a PDF.
 
 ### Education   
-Starting in Fall 2017
+2017-present
 :   **PhD, Psychology**; University of Minnesota (Minneapolis, MN)  
     *Advised by Andrew Oxenham*  
-    *College of Liberal Arts Graduate Fellow*    
+    *College of Liberal Arts Graduate Fellow*   
+    *NSF-NRT Graduate Training Program in Sensory Science Fellow*
 2013-2017
 :   **BS, Psychology**; University of Texas at Dallas (Richardson, TX)  
     *Advised by Peter Assmann*  
@@ -15,7 +16,10 @@ Starting in Fall 2017
     *Thesis: Perception of voice gender in children's speech*
 
 ### Research Positions  
-Starting in Fall 2017
+2019-present
+:   **Research Assistant (rotation)**; Computational Visual Neuroscience Lab 
+
+2017-present
 :   **Research Assistant**; Auditory Perception and Cognition Lab  
 
 2015-2017
