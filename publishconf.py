@@ -31,7 +31,7 @@ USE_FOLDER_AS_CATEGORY = False
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
-STATIC_PATHS = ['images', 'download']
+STATIC_PATHS = ['images', 'download', 'pages']
 
 MENUITEMS = (('Archives', '/archives.html'),
              ('Categories', '/categories.html'),
@@ -42,12 +42,12 @@ LINKS = ()
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
-PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['assets']
+#PLUGIN_PATHS = ['pelican-plugins']
+#PLUGINS = ['assets']
 
-DELETE_OUTPUT_DIRECTORY = False
+#DELETE_OUTPUT_DIRECTORY = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
