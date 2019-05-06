@@ -32,9 +32,9 @@ HOME_HIDE_TAGS = True
 
 STATIC_PATHS = ['images', 'download', 'pages']
 
-MENUITEMS = (('Archives', '/archives.html'),
-             ('Categories', '/categories.html'),
-             ('Tags', '/tags.html'),)
+#MENUITEMS = (('Archives', '/archives.html'),
+#             ('Categories', '/categories.html'),
+#             ('Tags', '/tags.html'),)
 
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
