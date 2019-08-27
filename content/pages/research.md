@@ -11,6 +11,7 @@ Date: 2017-04-01 10:00
 I joined the Auditory Perception and Cognition Lab in September 2017. My research spans a variety of topics in psychacoustics:
 
 - **Neural basis of pitch perception:** One of my current projects focuses on examining pitch perception with harmonic complex tones composed entirely of high frequencies (i.e., > 8 kHz). Previous research has demonstrated accurate pitch perception with such stimuli, and my present goal is to further investigate the neural code which mediates this pitch percept. To this end, I am investigating the ability of listeners to percieve pitch of high-frequency complex tone in the context of concurrent and spectrally-overlapping complex tone maskers. Additionally, I am developing computational models of neural responses to the stimuli used in these experiments in an effort to account for the results quantitatively.
+:   [Poster presented at ISAAR 2019]({filename}/download/GuestOxenhamISAAR2019.pdf)
 :   [Poster presented at ARO 2019]({filename}/download/GuestOxenhamARO19.pdf)
 
 - **Auditory enhancement:** I am currently assisting on a project pertaining to the neural correlates of auditory enhancement (measured by EEG). My role focuses on building a computational model of auditory enhancement to account for the electrophysiological measurements.
@@ -27,6 +28,15 @@ I joined the Auditory Perception and Cognition Lab in September 2017. My researc
 **PI:** Kendrick Kay 
 
 As part of my [NSF-NRT Graduate Training Program in Sensory Science Fellowship](http://catss.umn.edu/opportunities.htm), I am currently participating in a rotation in the UMN Computational Visual Neuroscience Lab. For my rotation, I am working on implementation and analysis of visual encoding models for a multi-session, multi-subject, high-resolution fMRI dataset currently being collected at the [Center for Magnetic Resonance Research](https://www.cmrr.umn.edu/). 
+
+[Eriksholm Research Center][10]
+-----------------
+
+**Time**: May 2019 - August 2019 
+
+**PI:** Lars Bramsløw
+
+During the summer of 2019, I worked as a research intern at Oticon's Eriksholm Research Center. At Eriskholm, I researched development of tools and techniues for visualizing and interpreting low-latency speech separation using deep neural networks.
 
 [UT Dallas Speech Perception Lab][1]
 -----------------
@@ -47,3 +57,4 @@ As an undergraduate research assistant, my primary role was working on a project
 [7]: http://apc.psych.umn.edu
 [8]: {filename}/download/GuestAEEUR17.pdf
 [9]: {filename}/download/GuestetalASA17.pdf
+[10]: https://www.eriksholm.com/
