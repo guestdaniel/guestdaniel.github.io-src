@@ -8,7 +8,8 @@ My short CV is available below. My full CV is available [here]({filename}/downlo
 :   **PhD, Psychology**; University of Minnesota (Minneapolis, MN)  
     *Advised by Andrew Oxenham*  
     *College of Liberal Arts Graduate Fellow*   
-    *NSF-NRT Graduate Training Program in Sensory Science Fellow*
+    *NSF-NRT Graduate Training Program in Sensory Science Fellow*  
+    *NIH Ruth L. Kirschstein National Research Service Award Fellow (F31)*
 2013-2017
 :   **BS, Psychology**; University of Texas at Dallas (Richardson, TX)  
     *Advised by Peter Assmann*  
@@ -17,7 +18,7 @@ My short CV is available below. My full CV is available [here]({filename}/downlo
 
 ### Research Positions  
 2019-present
-:   **Research Assistant (rotation)**; Computational Visual Neuroscience Lab 
+:   **Research Assistant**; Computational Visual Neuroscience Lab 
 
 2017-present
 :   **Research Assistant**; Auditory Perception and Cognition Lab  

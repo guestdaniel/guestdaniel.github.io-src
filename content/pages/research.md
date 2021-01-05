@@ -8,13 +8,13 @@ Date: 2017-04-01 10:00
 
 **PI:** Andrew Oxenham
 
-I joined the Auditory Perception and Cognition Lab in September 2017. My research spans a variety of topics in psychacoustics:
+I joined the Auditory Perception and Cognition Lab in September 2017. My research spans a variety of topics in psychacoustics and computational modeling of the audtiory system:
 
-- **Neural basis of pitch perception:** One of my current projects focuses on examining pitch perception with harmonic complex tones composed entirely of high frequencies (i.e., > 8 kHz). Previous research has demonstrated accurate pitch perception with such stimuli, and my present goal is to further investigate the neural code which mediates this pitch percept. To this end, I am investigating the ability of listeners to percieve pitch of high-frequency complex tone in the context of concurrent and spectrally-overlapping complex tone maskers. Additionally, I am developing computational models of neural responses to the stimuli used in these experiments in an effort to account for the results quantitatively.
+- **Neural basis of pitch perception:** One of my current projects focuses on examining pitch perception with harmonic complex tones composed entirely of high frequencies (i.e., > 8 kHz). Previous research has demonstrated accurate pitch perception with such stimuli, and my present goal is to further investigate the neural code which mediates this pitch percept. To this end, I am investigating the ability of listeners to percieve pitch of high-frequency complex tone in the context of concurrent and spectrally-overlapping complex tone maskers. Additionally, I am developing computational models of neural responses to the stimuli used in these experiments in an effort to determine what part of the results (if any) can be accounted for on the basis of peripheral factors.
+:   [Poster presented at ASA 2020 (virtual)]({filename}/download/GuestOxenhamASA2020.pdf)
+:   [Poster presented at ARO 2020]({filename}/download/GuestOxenhamARO2020.pdf)
 :   [Poster presented at ISAAR 2019]({filename}/download/GuestOxenhamISAAR2019.pdf)
-:   [Poster presented at ARO 2019]({filename}/download/GuestOxenhamARO19.pdf)
-
-- **Auditory enhancement:** I am currently assisting on a project pertaining to the neural correlates of auditory enhancement (measured by EEG). My role focuses on building a computational model of auditory enhancement to account for the electrophysiological measurements.
+:   [Poster presented at ARO 2019]({filename}/download/GuestOxenhamARO19.pdf)    
 
 - **Role of pitch in the complex auditory scene:** In my first project in the lab, I examined how F0 differences between a target talker and harmonic complex tone masker benefit speech segregation under a variety of conditions.
 :   [Poster presented at ASA Fall 2018]({filename}/download/GuestOxenhamASAVictoria18.pdf)   
@@ -27,7 +27,7 @@ I joined the Auditory Perception and Cognition Lab in September 2017. My researc
 
 **PI:** Kendrick Kay 
 
-As part of my [NSF-NRT Graduate Training Program in Sensory Science Fellowship](http://catss.umn.edu/opportunities.htm), I am currently participating in a rotation in the UMN Computational Visual Neuroscience Lab. For my rotation, I am working on implementation and analysis of visual encoding models for a multi-session, multi-subject, high-resolution fMRI dataset currently being collected at the [Center for Magnetic Resonance Research](https://www.cmrr.umn.edu/). 
+As part of my [NSF-NRT Graduate Training Program in Sensory Science Fellowship](http://catss.umn.edu/opportunities.htm), I am currently participating in a rotation in the UMN Computational Visual Neuroscience Lab. For my rotation, I am working on implementation and analysis of visual encoding models in the human thalamus for a multi-session, multi-subject, high-resolution fMRI dataset currently being collected at the [Center for Magnetic Resonance Research](https://www.cmrr.umn.edu/). The project focuses in particular on characterizing how the pulvinar encodes features of natural images.
 
 [Eriksholm Research Center][10]
 -----------------
@@ -36,7 +36,7 @@ As part of my [NSF-NRT Graduate Training Program in Sensory Science Fellowship](
 
 **PI:** Lars Bramsløw
 
-During the summer of 2019, I worked as a research intern at Oticon's Eriksholm Research Center. At Eriskholm, I researched development of tools and techniues for visualizing and interpreting low-latency speech separation using deep neural networks.
+During the summer of 2019, I worked as a research intern at Oticon's Eriksholm Research Center. At Eriskholm, I researched tools and techniques for visualizing and interpreting deep neural networks designed to process and separate speech. 
 
 [UT Dallas Speech Perception Lab][1]
 -----------------
