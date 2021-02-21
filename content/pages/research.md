@@ -11,6 +11,7 @@ Date: 2017-04-01 10:00
 I joined the Auditory Perception and Cognition Lab in September 2017. My research spans a variety of topics in psychacoustics and computational modeling of the audtiory system:
 
 - **Neural basis of pitch perception:** One of my current projects focuses on examining pitch perception with harmonic complex tones composed entirely of high frequencies (i.e., > 8 kHz). Previous research has demonstrated accurate pitch perception with such stimuli, and my present goal is to further investigate the neural code which mediates this pitch percept. To this end, I am investigating the ability of listeners to percieve pitch of high-frequency complex tone in the context of concurrent and spectrally-overlapping complex tone maskers. Additionally, I am developing computational models of neural responses to the stimuli used in these experiments in an effort to determine what part of the results (if any) can be accounted for on the basis of peripheral factors.
+:   [Poster presented at ARO 2021 (virtual)]({filename}/download/GuestOxenhamARO2021.pdf)
 :   [Poster presented at ASA 2020 (virtual)]({filename}/download/GuestOxenhamASA2020.pdf)
 :   [Poster presented at ARO 2020]({filename}/download/GuestOxenhamARO2020.pdf)
 :   [Poster presented at ISAAR 2019]({filename}/download/GuestOxenhamISAAR2019.pdf)
