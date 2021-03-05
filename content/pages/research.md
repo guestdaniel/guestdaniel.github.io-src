@@ -18,6 +18,7 @@ I joined the Auditory Perception and Cognition Lab in September 2017. My researc
 :   [Poster presented at ARO 2019]({filename}/download/GuestOxenhamARO19.pdf)    
 
 - **Role of pitch in the complex auditory scene:** In my first project in the lab, I examined how F0 differences between a target talker and harmonic complex tone masker benefit speech segregation under a variety of conditions.
+:   [Paper in JASA (2019)]({filename}/download/GuestOxenham2019JASA.pdf) [[original link]](https://doi.org/10.1121/1.5102169)
 :   [Poster presented at ASA Fall 2018]({filename}/download/GuestOxenhamASAVictoria18.pdf)   
     [Poster presented at UMN CCS Spring Research Day 2018]({filename}/download/GuestOxenhamSRD18.pdf)
 
