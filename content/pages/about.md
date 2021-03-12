@@ -18,6 +18,10 @@ Now, I'm in Minneapolis, Minnesota pursuing a PhD in psychology at the Universit
 
 ![alt text](/images/umn1.jpg)
 
+In the summer of 2019, I took a detour to Denmark to do an internship at Oticon's [Eriksholm Research Center](https://eriksholm.com). At Eriksholm, I worked with Lars Bramsløw on a project investigating the use of deep neural networks for speech segregation speech denoising. 
+
+![alt text](/images/Nyhavn_copenhagen.jpg)
+
 About this website
 ------------------
 

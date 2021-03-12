@@ -8,9 +8,9 @@ Date: 2017-04-01 10:00
 
 **PI:** Andrew Oxenham
 
-I joined the Auditory Perception and Cognition Lab in September 2017. My research spans a variety of topics in psychacoustics and computational modeling of the audtiory system:
+I joined the Auditory Perception and Cognition Lab in September 2017. My research spans a variety of topics in psychoacoustics and computational modeling of the auditory system.
 
-- **Neural basis of pitch perception:** One of my current projects focuses on examining pitch perception with harmonic complex tones composed entirely of high frequencies (i.e., > 8 kHz). Previous research has demonstrated accurate pitch perception with such stimuli, and my present goal is to further investigate the neural code which mediates this pitch percept. To this end, I am investigating the ability of listeners to percieve pitch of high-frequency complex tone in the context of concurrent and spectrally-overlapping complex tone maskers. Additionally, I am developing computational models of neural responses to the stimuli used in these experiments in an effort to determine what part of the results (if any) can be accounted for on the basis of peripheral factors.
+- **Neural basis of pitch perception:** My PhD focuses on investigating pitch perception with harmonic complex tones composed of low-numbered but high-frequency harmonics (e.g., harmonics 6-10 of a 1400 Hz F0). Previous research has demonstrated accurate pitch perception is possible with such stimuli despite the fact that such stimuli do not elicit strong phase locking to TFS in the auditory nerve. My goal is to elucidate the neural code that underlies this phenomenon. To this end, I am combining psychophysical methods, computational methods, and ideas from statistical estimation theory (e.g., Cramér–Rao lower bound) to probe the ability of listeners to perceive pitch in mixtures of complex tones at high frequencies.
 :   [Poster presented at ARO 2021 (virtual)]({filename}/download/GuestOxenhamARO2021.pdf)
 :   [Poster presented at ASA 2020 (virtual)]({filename}/download/GuestOxenhamASA2020.pdf)
 :   [Poster presented at ARO 2020]({filename}/download/GuestOxenhamARO2020.pdf)
@@ -29,7 +29,7 @@ I joined the Auditory Perception and Cognition Lab in September 2017. My researc
 
 **PI:** Kendrick Kay 
 
-As part of my [NSF-NRT Graduate Training Program in Sensory Science Fellowship](http://catss.umn.edu/opportunities.htm), I am currently participating in a rotation in the UMN Computational Visual Neuroscience Lab. For my rotation, I am working on implementation and analysis of visual encoding models in the human thalamus for a multi-session, multi-subject, high-resolution fMRI dataset currently being collected at the [Center for Magnetic Resonance Research](https://www.cmrr.umn.edu/). The project focuses in particular on characterizing how the pulvinar encodes features of natural images.
+As part of my [NSF-NRT Graduate Training Program in Sensory Science Fellowship](http://catss.umn.edu/opportunities.htm), I am currently pursuing a research project in the Computational Visual Neuroscience Lab. I am using encoding models and functional connectivity methods to explore responses in the visual pulvinar in the [Natural Scenes Dataset](http://naturalscenesdataset.org/), a massive multi-session, multi-subject, high-resolution fMRI dataset collected at the [Center for Magnetic Resonance Research](https://www.cmrr.umn.edu/). 
 
 [Eriksholm Research Center][10]
 -----------------
@@ -47,7 +47,7 @@ During the summer of 2019, I worked as a research intern at Oticon's Eriksholm R
 
 **PI:** Peter Assmann
 
-As an undergraduate research assistant, my primary role was working on a project investigating perception of indexical properties in children's speech. Using stimuli from the North Texas Vowel Database modified by the [STRAIGHT vocoder][3], I examined how listeners utilize fundamental frequency and formant frequencies when perceiving age and gender in children's speech. In particular, I focused on conditions of reduced spectrotemporal resolution (through the use of tone vocoders) and on differences between normal-hearing and cochlear-implant listeners. This research culminated in an honors thesis entitled "Perception of voice gender in children's speech". 
+As an undergraduate research assistant, my primary role was working on a project investigating perception of indexical properties in children's speech. Using stimuli from the [North Texas Vowel Database](https://personal.utdallas.edu/~assmann/KIDVOW1/North_Texas_vowel_database.html) modified by the [STRAIGHT vocoder][3], I examined how listeners utilize fundamental frequency and formant frequencies when perceiving age and gender in children's speech. In particular, I focused on conditions of reduced spectrotemporal resolution (through the use of tone vocoders) and on differences between normal-hearing and cochlear-implant listeners.
 :  [Poster presented at ASA Spring 2017][9]   
    [Poster presented at UTD Undergraduate Poster Contest 2017][8]   
    [Poster presented at ASA Spring 2016][2]
