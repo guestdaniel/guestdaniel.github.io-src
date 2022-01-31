@@ -1,6 +1,6 @@
 +++
 title = "Blog post"
-author = ["daniel"]
+author = ["Daniel Guest"]
 draft = false
 +++
 
@@ -34,13 +34,13 @@ Basic ideas
 Let's say we write a function to determine if a number is prime.
 
 ```python
-def is_prime(num):
-    flag = False
-    for divisor in range(2, num):
-      if (num % divisor) == 0:
-	  flag = True
-	  break
-    return not flag
+  def is_prime(num):
+      flag = False
+      for divisor in range(2, num):
+	  if (num % divisor) == 0:
+	      flag = True
+	      break
+      return not flag
 ```
 
 It is easy enough to work through this code in your head and observe that this code will successfully discriminate between prime numbers and non-prime numbers.
@@ -50,20 +50,20 @@ Such a manual testing process is a major failure point in software development.
 I suspect that any scientific programmer has had the experience of making seeminlgy innocent changes to their code only to find out, perhaps several weeks or months later, that the changes had unintended consequences or introduced new bugs.
 
 To take the human factor out of the equation, we can develop a set of automated unit tests for this code.
-A unit test is simple --- just a short chunk of code that runs our \`is\_prime\` function and verifies that it satisifes some test.
+A unit test is simple --- just a short chunk of code that runs our \`is_prime\` function and verifies that it satisifes some test.
 For example, one key test for an prime-checking function would be to make sure that it correclty reports prime numbers as primes and non-prime numbesr as non-primes.
 
 ```python
-def test_is_prime_small_numbers():
-    primes = [1, 2, 3, 5, 7, 11, 13]
-    non_primes = [2, 4, 6, 8, 9, 10, 12]
-    for prime in primes:
-      assert is_prime(prime)
-    for non_prime in non_primes:
-	assert not is_prime(prime)
+  def test_is_prime_small_numbers():
+      primes = [1, 2, 3, 5, 7, 11, 13]
+      non_primes = [2, 4, 6, 8, 9, 10, 12]
+      for prime in primes:
+	  assert is_prime(prime)
+      for non_prime in non_primes:
+          assert not is_prime(prime)
 ```
 
-Here is an example of a short unit test that tests whether \`is\_prime\` correctly handles integers less than or equal to 13.
+Here is an example of a short unit test that tests whether \`is_prime\` correctly handles integers less than or equal to 13.
 Your initial reaction may be one of surprise --- the testing code is as long as the code itself!
 Line counts don't matter...
 Increasingly useful...

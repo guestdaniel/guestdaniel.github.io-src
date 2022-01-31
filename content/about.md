@@ -1,6 +1,6 @@
 +++
 title = "About"
-author = ["daniel"]
+author = ["Daniel Guest"]
 draft = false
 +++
 
@@ -17,12 +17,12 @@ Dallas' distinguishing features to me have been its size (Dallas-Fort Worth is l
 
 Now, I'm in Minneapolis, Minnesota pursuing a PhD in psychology at the University of Minnesota.
 I work in the Auditory Perception and Cognition Lab there.
-As a native Texan, I had imagined that the only pastime of Minnesotans would be ice fishing and snow shoveling, but so far I've enjoyed Minneapolis' parks, bikes, and music! 
+As a native Texan, I had imagined that the only pastime of Minnesotans would be ice fishing and snow shoveling, but so far I've enjoyed Minneapolis' parks, bikes, and music!
 
 {{< figure src="/images/umn1.jpg" width="650" >}}
 
 In the summer of 2019, I took a detour to Denmark to do an internship at Oticon's [Eriksholm Research Center](https://eriksholm.com).
-At Eriksholm, I worked with Lars Bramsløw on a project investigating the use of deep neural networks for speech segregation speech denoising. 
+At Eriksholm, I worked with Lars Bramsløw on a project investigating the use of deep neural networks for speech segregation speech denoising.
 
 {{< figure src="/images/Nyhavn_copenhagen.jpg" width="650" >}}
 

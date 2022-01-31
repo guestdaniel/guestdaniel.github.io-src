@@ -1,6 +1,6 @@
 +++
 title = "Research"
-author = ["daniel"]
+author = ["Daniel Guest"]
 draft = false
 +++
 
@@ -21,9 +21,11 @@ Previous research has demonstrated that accurate pitch perception is possible wi
 My goal is to elucidate the neural code that underlies this phenomenon.
 To this end, I am combining psychophysical methods, computational models of the auditory periphery, and ideas from statistical estimation theory (e.g., Cramér–Rao lower bound) to probe the ability of listeners to perceive the pitch of complex tones at high frequencies.
 
+-   [Poster presented at ARO 2022 (virtual)](/download/GuestRajappaOxenham2022ARO.pdf)
+-   [Poster presented at ARO 2022 (virtual)](/download/GuestOxenhamARO2022.pdf)
 -   [Poster presented at ARO 2021 (virtual)](/download/GuestOxenhamARO2021.pdf)
 -   [Poster presented at ASA 2020 (virutal)](/download/GuestOxenhamASA2020.pdf)
--   [Poster presented at ARO 2020](/download/GuestOxenhamISAAR2019.pdf)
+-   [Poster presented at ARO 202](/download/GuestOxenhamARO2020.pdf)
 -   [Poster presented at ISAAR 2019](/download/GuestOxenhamISAAR2019.pdf)
 -   [Poster presented at ARO 2019](/download/GuestOxenhamARO2019.pdf)
 
@@ -42,7 +44,7 @@ Most notably, the results pose an interesting challenge for those attempting to 
 
 ****Time****: March 2019 - present
 
-****PI:**** Kendrick Kay 
+****PI:**** Kendrick Kay
 
 As part of my [NSF-NRT Graduate Training Program in Sensory Science Fellowship](http://catss.umn.edu/opportunities.htm), I am currently pursuing a research project in the Computational Visual Neuroscience Lab.
 In this project, I am analyzing data from the [Natural Scenes Dataset](http://naturalscenesdataset.org/), a massive multi-session, multi-subject, high-resolution fMRI dataset collected at the [Center for Magnetic Resonance Research](https://www.cmrr.umn.edu/).
@@ -56,17 +58,17 @@ Specifically, I am using encoding models and thalamocortical correlation analyse
 ****PI:**** Lars Bramsløw
 
 During the summer of 2019, I worked as a research intern at Oticon's Eriksholm Research Center.
-At Eriskholm, I researched tools and techniques for visualizing and interpreting deep neural networks designed to process and separate speech. 
+At Eriskholm, I researched tools and techniques for visualizing and interpreting deep neural networks designed to process and separate speech.
 
 
 ## [UT Dallas Speech Perception Lab](https://www.utdallas.edu/~assmann) {#ut-dallas-speech-perception-lab}
 
-****Time****: May 2015 - May 2017 
+****Time****: May 2015 - May 2017
 
 ****PI:**** Peter Assmann
 
 As an undergraduate research assistant, my primary role was working on a project investigating perception of indexical properties in children's speech.
-Using stimuli from the [North Texas Voxel Database](https://personal.utdallas.edu/~assmann/KIDVOW1/North%5FTexas%5Fvowel%5Fdatabase.html) modified by the STRAIGHT vocoder, I examined how listeners utilize fundamental frequency and formant frequencies when perceiving age and gender in children's speech.
+Using stimuli from the [North Texas Voxel Database](https://personal.utdallas.edu/~assmann/KIDVOW1/North_Texas_vowel_database.html) modified by the STRAIGHT vocoder, I examined how listeners utilize fundamental frequency and formant frequencies when perceiving age and gender in children's speech.
 In particular, I focused on conditions of reduced spectrotemporal resolution (through the use of tone vocoders) and on differences between normal-hearing and cochlear-implant listeners.
 
 -   [Poster presented at ASA 2017](/download/GuestetalASA17.pdf)

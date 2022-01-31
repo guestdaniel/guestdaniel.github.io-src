@@ -1,6 +1,6 @@
 +++
 title = "CV"
-author = ["daniel"]
+author = ["Daniel Guest"]
 draft = false
 +++
 
@@ -12,16 +12,16 @@ My short CV is available below. My full CV is available [here](/download/cv.pdf)
 
 ### PhD Psychology @ University of Minnesota (2017 -- present) {#phd-psychology-university-of-minnesota--2017-present}
 
-&nbsp;&nbsp;&nbsp;&nbsp; _Advised by Andrew Oxenham_  
-&nbsp;&nbsp;&nbsp;&nbsp; _NIH Ruth L. Kirschstein National Research Service Award Fellow (F31)_  
-&nbsp;&nbsp;&nbsp;&nbsp; _NSF-NRT Graduate Training Program in Sensory Science Fellow_  
-&nbsp;&nbsp;&nbsp;&nbsp; _College of Liberal Arts Graduate Fellow_  
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; _Advised by Andrew Oxenham_
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; _NIH Ruth L. Kirschstein National Research Service Award Fellow (F31)_
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; _NSF-NRT Graduate Training Program in Sensory Science Fellow_
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; _College of Liberal Arts Graduate Fellow_
 
 
 ### BS Psychology @ The University of Texas at Dallas (2013 -- 2017) {#bs-psychology-the-university-of-texas-at-dallas--2013-2017}
 
-&nbsp;&nbsp;&nbsp;&nbsp; _Advised by Peter Assmann_  
-&nbsp;&nbsp;&nbsp;&nbsp; _National Merit Scholar_  
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; _Advised by Peter Assmann_
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; _National Merit Scholar_
 
 
 ## Research Positions {#research-positions}
