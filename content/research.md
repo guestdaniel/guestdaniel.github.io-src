@@ -16,18 +16,27 @@ My research spans a variety of topics in psychoacoustics and computational model
 
 ### Neural basis of pitch perception {#neural-basis-of-pitch-perception}
 
-My PhD focuses on investigating pitch perception with harmonic complex tones composed of low-numbered but high-frequency harmonics (e.g., harmonics 6-10 of a 1400 Hz F0).
-Previous research has demonstrated that accurate pitch perception is possible with these tones despite the fact that they do not elicit strong phase locking to temporal fine structure in the auditory nerve.
-My goal is to elucidate the neural code that underlies this phenomenon.
-To this end, I am combining psychophysical methods, computational models of the auditory periphery, and ideas from statistical estimation theory (e.g., Cramér–Rao lower bound) to probe the ability of listeners to perceive the pitch of complex tones at high frequencies.
+My PhD focused on investigating pitch perception with harmonic complex tones composed of low-numbered but high-frequency harmonics (e.g., harmonics 6-10 of a 1400 Hz F0).
+Previous research demonstrated that accurate pitch perception is possible with these tones despite the fact that they do not elicit strong phase locking to temporal fine structure in the auditory nerve.
+My goal to elucidate the neural code that underlies this phenomenon.
+To this end, I am combined psychophysical methods, computational models of the auditory periphery, and ideas from statistical estimation theory (e.g., Cramér–Rao lower bound) to probe the ability of listeners to perceive the pitch of complex tones at high frequencies.
 
+-   [Paper in PLOS Comp Bio (2022)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009889)
 -   [Poster presented at ARO 2022 (virtual)](/download/GuestRajappaOxenham2022ARO.pdf)
--   [Poster presented at ARO 2022 (virtual)](/download/GuestOxenhamARO2022.pdf)
 -   [Poster presented at ARO 2021 (virtual)](/download/GuestOxenhamARO2021.pdf)
 -   [Poster presented at ASA 2020 (virutal)](/download/GuestOxenhamASA2020.pdf)
 -   [Poster presented at ARO 202](/download/GuestOxenhamARO2020.pdf)
 -   [Poster presented at ISAAR 2019](/download/GuestOxenhamISAAR2019.pdf)
 -   [Poster presented at ARO 2019](/download/GuestOxenhamARO2019.pdf)
+
+
+### Profile analysis {#profile-analysis}
+
+Another topic I have pursued is profile analysis.
+In profile-analysis tasks, listeners are asked to identify when one component of a complex sound is incremented in level, even while the sound's overall level is randomized from interval to interval.
+I have been exploring how representations of profile-analysis stimuli in the auditory nerve and inferior colliculus, using phenomenological models of the auditory system, relate to psychophysical performance in the task at low and high frequencies.
+
+-   [Poster presented at ARO 2022 (virtual)](/download/GuestOxenhamARO2022.pdf)
 
 
 ### Role of pitch in the complex auditory scene {#role-of-pitch-in-the-complex-auditory-scene}
